@@ -46,7 +46,7 @@ $ python3 googleSpeechWithSnowboy.py
 
 Test video(youtube)
 ===
-<br>
-[![Alt text for your video](https://img.youtube.com/vi/T-GD71CLPCUjo/0.jpg)](http://youtube.com/watch?v=GD71CLPCUjo)
+
+[![Alt text for your video](http://img.youtube.com/vi/T-GD71CLPCUjo/0.jpg)](http://youtube.com/watch?v=GD71CLPCUjo)
 <br>
 
