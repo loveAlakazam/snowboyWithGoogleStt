@@ -1,8 +1,8 @@
-
+# snowboyWithGoogleStt<br>
 
 스노우보이와 구글SST 사용<br>
 참고: https://github.com/chandong83/googleSpeech_with_NaverTTS<br>
-추후 과제: 구글스피치의 tts를 이용
+추후 과제: 구글스피치의 tts를 이용<br>
 
 Support
 ===
