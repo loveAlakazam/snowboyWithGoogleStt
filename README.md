@@ -29,8 +29,8 @@ $ sudo apt-get install python-dev
 $ pip install pyaudio
 </code>
 </pre>
-##snowboy설치하기(reference: how to download snowboy)
-##[url] https://blog.naver.com/rose1216_/221318052590
+##snowboy설치하기(reference: how to download snowboy)<br>
+##[url] https://blog.naver.com/rose1216_/221318052590<br>
 
 
 how to install and act snowboyWithGOogleStt
@@ -48,5 +48,4 @@ Test video(youtube)
 ===
 
 [![Alt text for your video](https://img.youtube.com/vi/T-GD71CLPCUjo/0.jpg)](http://www.youtube.com/watch?v=T-GD71CLPCUjo)
-<br>
 
