@@ -29,28 +29,24 @@ $ sudo apt-get install python-dev
 $ pip install pyaudio
 </code>
 </pre>
-
-
-for Sample Test
-===
-##snowboy설치하기
+##snowboy설치하기(reference: how to download snowboy)
 ##[url] https://blog.naver.com/rose1216_/221318052590
 
+
+how to install and act snowboyWithGOogleStt
+===
 <pre>
 <code>
+$ git clone https://github.com/loveAlakazam/snowboyWithGoogleStt
 $ cd snowboyWithGoogleStt
 
 $ python3 googleSpeechWithSnowboy.py
 </code>
 </pre>
+
+Test video(youtube)
 ===
 <br>
 [![Alt text for your video](https://img.youtube.com/vi/GD71CLPCUjo/0.jpg)](http://youtube.com/watch?v=GD71CLPCUjo)
-<br>
-===
 
-<pre>
-you can say 'snowboy'
-then snowboy is stopped and displayed to  'Hi, I am here!'
-snowboy will start again after 5sec.
-</pre>
+
