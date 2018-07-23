@@ -45,6 +45,7 @@ $ python3 googleSpeechWithSnowboy.py
 </pre>
 ===
 <iframe width="640" height="360" src="https://www.youtube.com/embed/GD71CLPCUjo" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<br>
 ===
 
 <pre>
