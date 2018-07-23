@@ -33,7 +33,7 @@ $ pip install pyaudio
 ##[url] https://blog.naver.com/rose1216_/221318052590<br>
 
 
-how to install and act snowboyWithGOogleStt
+how to install and act snowboyWithGoogleStt
 ===
 <pre>
 <code>
