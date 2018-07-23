@@ -1,8 +1,8 @@
-# snowboyWithGoogleStt<br>
 
-## 스노우보이와 구글SST 사용<br>
-## 참고: https://github.com/chandong83/googleSpeech_with_NaverTTS<br>
-## 추후 과제: 네이버 tts대신에 구글스피치의 tts를 이용하여 대답을 문자에서 speech로 변환시키기<br>
+
+스노우보이와 구글SST 사용<br>
+참고: https://github.com/chandong83/googleSpeech_with_NaverTTS<br>
+추후 과제: 구글스피치의 tts를 이용
 
 Support
 ===
