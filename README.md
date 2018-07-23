@@ -46,7 +46,6 @@ $ python3 googleSpeechWithSnowboy.py
 
 Test video(youtube)
 ===
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/GD71CLPCUjo" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![youtube link](http:img.youtube.com/vi/GD71CLPCUjo/0.jpg)](http://www.youtube.com/watch?v=GD71CLPCUjo)
 <br>
 
